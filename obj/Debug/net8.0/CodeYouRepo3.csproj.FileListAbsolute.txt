@@ -1,0 +1,4 @@
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouRepo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouRepo3.AssemblyInfoInputs.cache
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouRepo3.AssemblyInfo.cs
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouRepo3.csproj.CoreCompileInputs.cache

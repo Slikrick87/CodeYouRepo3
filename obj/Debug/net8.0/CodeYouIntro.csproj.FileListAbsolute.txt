@@ -1,0 +1,14 @@
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouIntro.AssemblyInfoInputs.cache
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouIntro.AssemblyInfo.cs
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouIntro.csproj.CoreCompileInputs.cache
+C:\CodeYou\CodeYouRepo3\bin\Debug\net8.0\CodeYouIntro.exe
+C:\CodeYou\CodeYouRepo3\bin\Debug\net8.0\CodeYouIntro.deps.json
+C:\CodeYou\CodeYouRepo3\bin\Debug\net8.0\CodeYouIntro.runtimeconfig.json
+C:\CodeYou\CodeYouRepo3\bin\Debug\net8.0\CodeYouIntro.dll
+C:\CodeYou\CodeYouRepo3\bin\Debug\net8.0\CodeYouIntro.pdb
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouIntro.dll
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\refint\CodeYouIntro.dll
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouIntro.pdb
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\CodeYouIntro.genruntimeconfig.cache
+C:\CodeYou\CodeYouRepo3\obj\Debug\net8.0\ref\CodeYouIntro.dll
