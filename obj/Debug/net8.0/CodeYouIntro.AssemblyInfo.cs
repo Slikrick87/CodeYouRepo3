@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeYouIntro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99c3db96ee267bd7b1a0ff43addffe4f27d860db")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeYouIntro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeYouIntro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
